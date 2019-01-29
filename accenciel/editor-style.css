@@ -1,0 +1,25 @@
+.couleur-principale-text {
+    color: #aeacce;
+}
+
+.couleur-secondaire-text {
+    color: #ffd63a;
+}
+
+.couleur-principale-ligne {
+    border-bottom: #aeacce thin solid;
+}
+
+.couleur-secondaire-ligne {
+    border-bottom: #ffd63a thin solid;
+}
+
+.couleur-principale-fond {
+    background-color: #aeacce;
+    padding: 1px 3px 1px 3px;
+}
+
+.couleur-secondaire-fond {
+    background-color: #ffd63a;
+    padding: 1px 3px 1px 3px;
+}
